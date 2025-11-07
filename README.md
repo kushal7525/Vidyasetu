@@ -9,9 +9,9 @@
   <p align="center">
     A unified digital bridge to technical education admissions and student services.
     <br />
-    <a href="https://github.com/monark1/Vidyasetu/issues">Report Bug</a>
+    <a href="https://github.com/kushal7525/Vidyasetu/issues">Report Bug</a>
     ·
-    <a href="https://github.com/monark1/Vidyasetu/issues">Request Feature</a>
+    <a href="https://github.com/kushal7525/Vidyasetu/issues">Request Feature</a>
   </p>
 </div>
 
@@ -72,7 +72,7 @@ To set up the project locally:
 
 1. Clone the repo
    ```
-   git clone https://github.com/monark1/Vidyasetu.git
+   git clone https://github.com/kushal7525/Vidyasetu.git
    cd Vidyasetu
    ````
 
@@ -122,7 +122,7 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 
 ## 🤝 Contact
 
-📧 [monark.bhardwaj2022@glbajajgroup.org](mailto:monark.bhardwaj2022@glbajajgroup.org)
-🔗 [LinkedIn](https://www.linkedin.com/in/monark-bhardwaj)
+📧 [monark.bhardwaj2022@glbajajgroup.org](mailto:kaushal.bhadauriya2022@glbajajgroup.org)
+🔗 [LinkedIn](https://www.linkedin.com/in/kushal-bhadauriya-5a5271281/)
 
  <p align="right">(<a href="#top">Back to Top</a>)</p>
