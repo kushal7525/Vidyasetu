@@ -114,15 +114,9 @@ To set up the project locally:
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
-
----
-
 ## 🤝 Contact
 
-📧 [monark.bhardwaj2022@glbajajgroup.org](mailto:kaushal.bhadauriya2022@glbajajgroup.org)
+📧 [kaushal.bhadauriya2022@glbajajgroup.org](mailto:kaushal.bhadauriya2022@glbajajgroup.org)
 🔗 [LinkedIn](https://www.linkedin.com/in/kushal-bhadauriya-5a5271281/)
 
  <p align="right">(<a href="#top">Back to Top</a>)</p>
